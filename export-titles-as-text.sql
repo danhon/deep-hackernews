@@ -1,0 +1,1 @@
+copy (select title from hn_submissions) to '/Users/danhon/dev/deep-hackernews/data/titles.test.txt';
